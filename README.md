@@ -33,7 +33,7 @@
 ```yaml
 Name     : Akanksha Rawat
 Degree   : B.Tech CSE @ SRMU, Lucknow
-Grad     : 2027  |  CGPA: 7.58
+Grad     : 2027  
 Intern   : Web Developer @ InternPe (2025)
 Focus    : Software Dev · Web Dev · AI Tools
 Status   : Open to Internships & Work ✅
