@@ -73,24 +73,14 @@ Status   : Open to Internships & Work ✅
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🛍️ **Trenova** | 🤖 **ResumeLens** |
-|---|---|
-| Sportswear e-commerce site with responsive UI & product listing | AI-powered resume screener using Flask + Claude API |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude%20API-6366f1?style=flat-square) |
-| ✅ Live & Deployed | 🔧 Work in Progress |
-
-| 🌐 **Portfolio Website** | ✅ **To-Do List App** |
-|---|---|
-| Personal portfolio with charcoal + emerald theme & contact form | Clean task manager with add, complete & delete functionality |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ✅ Live | ✅ Complete |
-
-</div>
-
+## Featured Projects
+ 
+| Project | Description | Tech | Key Features | Links |
+|---|---|---|---|---|
+| **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, responsive design, clean navigation | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/trenova) |
+| **ResumeLens** | AI-powered resume screener using Flask + Claude API | Flask, Python, Claude API | Resume parsing, AI-generated feedback, ATS scoring | *In progress* · [Repo](https://github.com/akanksharawat22/resumelens) |
+| **Portfolio Website** | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript | Responsive layout, project showcase, contact form | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/portfolio) |
+| **To-Do App** | Minimal task manager with add, complete, delete functionality | HTML, CSS, JavaScript | Add/complete/delete tasks, clean UI | [Repo](https://github.com/akanksharawat22/todo-app) |
 ---
 
 ## 📊 GitHub Activity
