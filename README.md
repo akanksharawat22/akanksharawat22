@@ -26,7 +26,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -57,7 +57,7 @@ Status   : Open to Internships & Work ✅
 | Project | Description | Tech | Key Features | Links |
 |---|---|---|---|---|
 | **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, responsive design, clean navigation | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/trenova) |
-| **ResumeLens** | AI-powered resume screener using Flask + Claude API | Flask, Python, Claude API | Resume parsing, AI-generated feedback, ATS scoring | *In progress* · [Repo](https://github.com/akanksharawat22/resumelens) |
+| **ResumeLens** | AI-powered resume screener using Flask + Gemini API | Flask, Python, Gemini API | Resume parsing, AI-generated feedback, ATS scoring | *In progress* · [Repo](https://github.com/akanksharawat22/resumelens) |
 | **Portfolio Website** | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript | Responsive layout, project showcase, contact form | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/portfolio) |
 | **To-Do App** | Minimal task manager with add, complete, delete functionality | HTML, CSS, JavaScript | Add/complete/delete tasks, clean UI | [Repo](https://github.com/akanksharawat22/todo-app) |
 
