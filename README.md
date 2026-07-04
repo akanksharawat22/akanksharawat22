@@ -28,7 +28,7 @@
 
 ## About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+I'm a computer science student who enjoys building projects and learning new things along the way. I've worked on a few web development projects and completed an internship where I got to apply what I've learned. Right now I'm focused on improving my skills and looking for opportunities to work on real-world projects.
 
 ```yaml
 Name     : Akanksha Rawat
