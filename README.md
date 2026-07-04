@@ -42,34 +42,13 @@ Status   : Open to Internships & Work ✅
 <br clear="right"/>
 
 ---
-
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Languages**
+**Frameworks & Tools:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-**Currently Learning 🌱**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
+**Currently Learning 🌱:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -78,16 +57,9 @@ Status   : Open to Internships & Work ✅
 | Project | Description | Tech | Key Features | Links |
 |---|---|---|---|---|
 | **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, responsive design, clean navigation | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/trenova) |
-| **ResumeLens** | AI-powered resume screener using Flask + Claude API | Flask, Python, Gemini API | Resume parsing, AI-generated feedback, ATS scoring | *In progress* · [Repo](https://github.com/akanksharawat22/resumelens) |
+| **ResumeLens** | AI-powered resume screener using Flask + Claude API | Flask, Python, Claude API | Resume parsing, AI-generated feedback, ATS scoring | *In progress* · [Repo](https://github.com/akanksharawat22/resumelens) |
 | **Portfolio Website** | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript | Responsive layout, project showcase, contact form | [Live](https://your-live-link-here.com) · [Repo](https://github.com/akanksharawat22/portfolio) |
 | **To-Do App** | Minimal task manager with add, complete, delete functionality | HTML, CSS, JavaScript | Add/complete/delete tasks, clean UI | [Repo](https://github.com/akanksharawat22/todo-app) |
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanksharawat22&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
 
 ---
 
