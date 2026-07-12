@@ -56,7 +56,7 @@ Status   : Open to Internships & Work ✅
  
 | Project | Description | Tech | Key Features | Links |
 |---|---|---|---|---|
-| **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, responsive design, clean navigation | [Repo](https://github.com/akanksharawat22/trenova) |
+| **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, cart & wishlist, search & filter, responsive design | [Live](https://trenova-ecommerce-website.vercel.app) · [Repo](https://github.com/akanksharawat22/trenova-ecommerce-website) |
 | **ResumeLens** | AI-powered resume screener using Flask + Gemini API | Flask, Python, React, Gemini API | Resume parsing, AI-generated feedback, ATS scoring | [Live](https://resumelens-vert.vercel.app) · [Repo](https://github.com/akanksharawat22/resumelens) |
 | **Portfolio Website** | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript | Responsive layout, project showcase, contact form | [Live](https://akanksharawat22.github.io/personal-portfolio/) · [Repo](https://github.com/akanksharawat22/portfolio) |
 | **To-Do App** | Minimal task manager with add, complete, delete functionality | HTML, CSS, JavaScript | Add/complete/delete tasks, clean UI | [Repo](https://github.com/akanksharawat22/todo-app) |
