@@ -1,85 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Akanksha%20Rawat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✦%20Software%20Developer%20·%20Web%20Dev%20·%20AI%20Enthusiast%20✦&descAlignY=62&descSize=16&descColor=e0d7ff" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Akanksha%20Rawat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%E2%9C%A6%20Software%20Developer%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20AI%20Enthusiast%20%E2%9C%A6&descAlignY=62&descSize=16&descColor=e0d7ff" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-rawat-7b90ba338/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanksharawat22)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akankshar173@gmail.com)
+
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/akanksha-rawat-7b90ba338/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/akanksharawat22">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:akankshar173@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80;Building+Real-World+Projects+%F0%9F%9B%A0%EF%B8%8F" />
-</div>
-
-<br/>
 
 ---
 
 ## About Me
 
-I'm a computer science student who enjoys building projects and learning new things along the way. I've worked on a few web development projects and completed an internship where I got to apply what I've learned. Right now I'm focused on improving my skills and looking for opportunities to work on real-world projects.
+I'm a final-year Computer Science student who builds full-stack web applications end to end - designing the backend, wiring up APIs, and shipping a polished, responsive UI. I've completed two internships applying these skills on real teams, and I'm currently looking for a **Software Development / Full-Stack internship** where I can keep shipping production-quality features.
 
-```yaml
+```
 Name     : Akanksha Rawat
-Degree   : B.Tech CSE @ SRMU, Lucknow
-Grad     : 2027  
-Intern   : Web Developer @ InternPe (2025)
-Focus    : Software Dev · Web Dev · AI Tools
-Status   : Open to Internships & Work ✅
+Degree   : B.Tech CSE @ SRMU, Lucknow (Class of 2027)
+Interned : Full Stack Developer @ Codec Technologies (2026) · Web Developer @ InternPe (2025)
+Focus    : Full-Stack Development · SDE
+Status   : Open to Internships ✅
 ```
 
-<br clear="right"/>
-
 ---
+
 ## 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages:** Python, JavaScript, HTML5, CSS3, C
 
-**Frameworks & Tools:** ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+**Frontend:** React
 
-**Currently Learning 🌱:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & AI:** Flask, Gemini API
+
+**Tools & Deployment:** Git, GitHub, Vercel, Render, VS Code
+
+**Currently Learning 🌱:** Node.js, Express, MongoDB
 
 ---
 
 ## Featured Projects
- 
+
 | Project | Description | Tech | Key Features | Links |
 |---|---|---|---|---|
-| **Trenova** | Sportswear e-commerce site with product browsing and responsive UI | HTML, CSS, JavaScript | Product listing, cart & wishlist, search & filter, responsive design | [Live](https://trenova-ecommerce-website.vercel.app) · [Repo](https://github.com/akanksharawat22/trenova-ecommerce-website) |
-| **ResumeLens** | AI-powered resume screener using Flask + Gemini API | Flask, Python, React, Gemini API | Resume parsing, AI-generated feedback, ATS scoring | [Live](https://resumelens-vert.vercel.app) · [Repo](https://github.com/akanksharawat22/resumelens) |
+| **ResumeLens** | AI-powered resume screener that parses resumes and scores them against a job description | Flask, Python, Gemini API, React | Resume parsing, AI-generated feedback, ATS scoring, PDF report export | [Live](https://resumelens-vert.vercel.app) · [Repo](https://github.com/akanksharawat22/resumelens) |
+| **Negotiation Coach** *(team project)* | Multi-agent app for practicing negotiations (e.g. salary) against an AI opponent, with a second AI agent scoring tactics and giving coaching feedback. My role: frontend & UX in React | React (Vite), FastAPI, Groq API | Live negotiation simulation, real-time tactic scoring, AI coaching feedback | [Repo](https://github.com/kushagr-a522/negotiation-coach) |
+| **Trenova** | Sportswear e-commerce storefront with product browsing and a fully responsive UI | HTML, CSS, JavaScript | Product listing, cart & wishlist, search & filter, responsive design | [Live](https://trenova-ecommerce-website.vercel.app) · [Repo](https://github.com/akanksharawat22/trenova-ecommerce-website) |
 | **Portfolio Website** | Personal portfolio showcasing projects and experience | HTML, CSS, JavaScript | Responsive layout, project showcase, contact form | [Live](https://akanksharawat22.github.io/personal-portfolio/) · [Repo](https://github.com/akanksharawat22/portfolio) |
-| **To-Do App** | Minimal task manager with add, complete, delete functionality | HTML, CSS, JavaScript | Add/complete/delete tasks, clean UI | [Repo](https://github.com/akanksharawat22/todo-app) |
 
 ---
 
 ## 📬 Let's Connect!
-
-<div align="center">
 
 💼 Open to **internships**, **freelance projects**, and **collaborations**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-rawat-7b90ba338/)
 [![Gmail](https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akankshar173@gmail.com)
 
-<br/>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=akanksharawat22&style=for-the-badge&color=blueviolet&label=Profile+Views)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
