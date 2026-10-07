@@ -49,13 +49,25 @@ Status   : Open to Internships ✅
 
 ---
 
+<div align="center">
+
 ## 📬 Let's Connect!
- 
+
 💼 Open to **internships**, **freelance projects**, and **collaborations**
- 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-rawat-7b90ba338/)
-[![Gmail](https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akankshar173@gmail.com)
- 
-![Visitor Count](https://komarev.com/ghpvc/?username=akanksharawat22&style=for-the-badge&color=blueviolet&label=Profile+Views)
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/akanksha-rawat-7b90ba338/">
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:akankshar173@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akanksharawat22&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Visitor Count">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer wave">
+
+</div>
