@@ -16,7 +16,7 @@ I'm a final-year Computer Science student who builds full-stack web applications
 
 ```
 Name     : Akanksha Rawat
-Degree   : B.Tech CSE @ SRMU, Lucknow (Class of 2027)
+Degree   : B.Tech CSE , SRMU Lucknow 
 Interned : Full Stack Developer @ Codec Technologies (2026) · Web Developer @ InternPe (2025)
 Focus    : Full-Stack Development · SDE
 Status   : Open to Internships ✅
